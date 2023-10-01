@@ -1,4 +1,5 @@
 # BrasileiraoB
+This project is a exemple that request comunication with API (the data is from the end of 2022)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.0.
 
